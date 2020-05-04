@@ -1,4 +1,5 @@
 # TCP-Server-for-metrics
 
-Команды: put [name] [value] [timestamp] - добавление метрики на сервер
-         get [name] - запрос у сервера метрики [name]
+Команды: <br/>
+put [name] [value] [timestamp] - добавление метрики на сервер <br/>
+get [name] - запрос у сервера метрики [name]
